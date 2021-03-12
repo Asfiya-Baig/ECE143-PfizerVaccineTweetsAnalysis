@@ -28,9 +28,17 @@ Main third-party libraries used:
 
 `pip install plotly==4.14.3`
 
-* Sklearn 0.24.1
+* Scikit-learn 0.24.1
 
 `pip install scikit-learn==0.24.1`
+
+* Keras 2.4.3
+
+`pip install keras==2.4.3`
+
+* Nltk 3.5
+
+`pip install nltk==3.5`
 
 ### File structure
 
