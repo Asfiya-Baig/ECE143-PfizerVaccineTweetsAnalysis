@@ -28,6 +28,10 @@ Main third-party libraries used:
 
 `pip install plotly==4.14.3`
 
+* Sklearn 0.24.1
+
+`pip install scikit-learn==0.24.1`
+
 ### File structure
 
 * data: the directory contains the vaccine tweet data used for analysis
