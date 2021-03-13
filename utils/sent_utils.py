@@ -1,16 +1,8 @@
 import re
-import nltk
-import random
 import string
-import numpy as np 
 import pandas as pd 
 import matplotlib.pyplot as plt
-import seaborn as sns
-from plotly.subplots import make_subplots
-import plotly.express as ex
-import plotly.graph_objs as go
-from nltk.sentiment.vader import SentimentIntensityAnalyzer as SIA
-from wordcloud import WordCloud,STOPWORDS
+from wordcloud import WordCloud
 from textblob import TextBlob
 
 def cal_sub_pol(df):

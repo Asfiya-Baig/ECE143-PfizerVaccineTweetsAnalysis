@@ -28,6 +28,15 @@ Main third-party libraries used:
 
 `pip install plotly==4.14.3`
 
+* Wordcloud 1.8.1
+
+`pip install wordcloud==1.8.1`
+
+* Textblob 0.15.3
+
+`pip install textblob==0.15.3`
+
+
 ### File structure
 
 * data: the directory contains the vaccine tweet data used for analysis
