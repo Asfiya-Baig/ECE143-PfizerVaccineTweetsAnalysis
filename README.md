@@ -28,7 +28,6 @@ Main third-party libraries used:
 
 `pip install plotly==4.14.3`
 
-<<<<<<< HEAD
 * Wordcloud 1.8.1
 
 `pip install wordcloud==1.8.1`
@@ -37,7 +36,6 @@ Main third-party libraries used:
 
 `pip install textblob==0.15.3`
 
-=======
 * Scikit-learn 0.24.1
 
 `pip install scikit-learn==0.24.1`
@@ -54,7 +52,6 @@ Main third-party libraries used:
 
 `pip install gensim==3.8.3`
 
->>>>>>> 716a4b5a26e542f599450f39f7505de1207bbdad
 
 ### File structure
 
