@@ -49,6 +49,11 @@ Main third-party libraries used:
 * Nltk 3.5
 
 `pip install nltk==3.5`
+
+* Gensim 3.8.3
+
+`pip install gensim==3.8.3`
+
 >>>>>>> 716a4b5a26e542f599450f39f7505de1207bbdad
 
 ### File structure
