@@ -28,6 +28,31 @@ Main third-party libraries used:
 
 `pip install plotly==4.14.3`
 
+* Wordcloud 1.8.1
+
+`pip install wordcloud==1.8.1`
+
+* Textblob 0.15.3
+
+`pip install textblob==0.15.3`
+
+* Scikit-learn 0.24.1
+
+`pip install scikit-learn==0.24.1`
+
+* Keras 2.4.3
+
+`pip install keras==2.4.3`
+
+* Nltk 3.5
+
+`pip install nltk==3.5`
+
+* Gensim 3.8.3
+
+`pip install gensim==3.8.3`
+
+
 ### File structure
 
 * data: the directory contains the vaccine tweet data used for analysis
